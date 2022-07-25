@@ -1,0 +1,7 @@
+.toasts{
+    position: relative;
+    width: 20vw;
+    bottom: 90px;
+    left: 60%;
+    border-left: 10px solid rgb(85, 85, 194);
+}
